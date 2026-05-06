@@ -1,0 +1,17 @@
+/* Forgely brand color tokens
+ * Drop-in CSS custom properties for any web project.
+ */
+
+:root {
+  --color-charcoal:     #121212;
+  --color-white:        #ffffff;
+  --color-brand-orange: #ff4f00;
+  --color-orange-light: #fe6e00;
+  --color-dark-grey:    #262626;
+  --color-mid-grey:     #333333;
+  --color-light-grey:   #e5e5e5;
+  --color-off-white:    #f5f5f5;
+  --color-black:        #000000;
+
+  --gradient-brand: linear-gradient(135deg, #ff4f00 0%, #fe6e00 100%);
+}
